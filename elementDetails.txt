@@ -1,0 +1,118 @@
+HYDROGEN,H,1,1.008,non metal,s,1,0,1
+HELIUM,He,2,4.00,noble gas,p,2,2,2
+LITHIUM,Li,3,6.94,metal,s,3,4,3
+BERYLLIUM,Be,4,9.01,metal,s,4,5,4
+BORON,B,5,10.81,metalloid,p,5,6,5
+CARBON,C,6,12.01,non metal,p,6,6,6
+NITROGEN,N,7,14.00,non metal,p,7,7,7
+OXYGEN,O,8,15.59,non metal,p,8,8,8
+FLUORINE,F,9,18.99,non metal,p,9,10,9
+NEON,Ne,10,20.18,noble gas,p,10,,10,10
+SODIUM,Na,11,22.9,metal,s,11,12,11
+MAGNESIUM,Mg,12,24.30,metal,s,12,12,12
+ALUMINIUM,Al,13,26.98,metal,p,13,14,13
+SILICON,Si,14,28.08,metalloid,p,14,14,14
+PHOSPHOROUS,P,15,30.97,non metal,p,15,16,15
+SULPHUR,S,16,32.06,non metal,p,16,16,16
+CHLORINE,Cl,17,35.45,non metal,p,17,18,17
+ARGON,Ar,18,39.94,non metal,p,18,22,18
+POTASSIUM,K,19,39.09,metal,s,19,20,19
+CALICUM,Ca,20,40.07,metal,s,20,20,20
+SCANDIUM,Sc,21,44.95,metal,d,21,24,21
+TITANIUM,Ti,22,47.86,metal,d,22,26,22
+VANADIUM,V,23,50.94,metal,d,23,28,23
+CHROMIUM,Cr,24,51.99,metal,d,24,28,24
+MANGANESE,Mg,25,54.84,metal,d,25,30,25
+IRON,Fe,26,55.84,metal,d,26,30,26
+COBALT,Co,27,58.93,metal,d,27,32,27
+NICKEL,Ni,28,58.69,metal,d,28,31,28
+COPPER,Cu,29,63.54,metal,d,29,35,29
+ZINC,Zn,30,65.39,metal,d,30,35,30
+GALLIUM,Ga,31,69.72,metal,p,31,39,31
+GERMANIUM,Ge,32,72.64,metalloid,p,32,41,32
+ARSENIC,As,33,74.92,metalliod,p,33,42,33
+SELENIUM,Se,34,78.96,non metal,p,34,45,34
+BROMINE,Br,35,79.90,non metal,p,35,45,35
+KRYPTON,Kr,36,83.80,noble gas,p,36,48,36
+RUBIDIUM,Rb,37,85.46,metal,s,37,48,37
+STRONTIUM,Sr,38,87.62,metal,s,38,50,38
+YTTRIUM,Y,39,88.90,metal,d,39,50,39
+ZIRCONIUM,Zr,40,91.22,metal,d,40,51,40
+NIOBIUM,Nb,41,92.90,metal,d,41,52,41
+MOLYBDENUM,Mo,42,95.94,metal,d,42,54,42
+TECHNETIUM,Tc,43,98.00,radioactive,d,43,55,43
+RUTHENIUM,Ru,44,101.07,metal,d,44,58,44
+RHODIUM,Rh,45,102.90,metal,d,45,57,45
+PALLADIUM,Pd,46,106.42,metal,d,46,60,46
+SILVER,Ag,47,107.86,metal,d,47,61,47
+CADMIUM,Cd,48,112.41,metal,d,48,64,48
+INDIUM,In,49,114.81,metal,p,49,66,49
+TIN,Sn,50,118.71,metal,p,50,69,50
+ANTIMONY,Sb,51,121.76,metalloid,p,51,71,51
+TELLURIUM,Te,52,127.60,metalloid,p,52,75,52
+IODINE,I,53,126.90,non metal,p,53,74,53
+XENON,Xe,54,131.29,non metal,p,54,77,54
+CESIUM,Cs,55,132.906,metal,s,55,78,55
+BARIUM,Ba,56,137.372,metal,s,56,81,56
+LANTHANUM,La,57,138.906,metal,d,57,82,57
+CERIUM,Ce,58,140.116,metal,f,58,82,58
+PRASEODYMIUM,Pr,59,140.906,metal,f,59,82,59
+NEODYMIUM,Nd,60,144.240,metal,f,60,84,60
+PROMETHIUM,Pm,61,145.000,radioactive,f,61,85,61
+SAMARIUM,Sm,62,150.36,metal,f,62,88,62
+EUROPIUM,Eu,63,151.96,metal,f,63,89,63
+GADOLINIUM,Gd,64,157.25,metal,f,64,93,64
+SAMARIUM,Sm,65,150.36,metal,f,63,89,63
+DYSPROSIUM,Dy,66,162.50,metal,f,66,96,66
+HOLMINM,Ho,67,164.93,metal,f,67,97,67
+ERBIUM,Er,68,167.25,metal,f,68,99,68
+THULIUM,Tm,69,168.93,metal,f,69,99,69
+YTTERBIUM,Yb,70,173.04,metal,f,70,103,70
+LUTETIUM,Lu,71,174.96,metal,d,71,103,71
+HAFNIUM,Hf,72,178.49,metal,d,72,106,72
+TANTALUM,Ta,73,180.94,metal,d,73,108,73
+TUNGSTEN,Lu,74,174.96,metal,d,74,109,74
+RHENIUM,Re,75,186.84,metal,d,75,111,75
+OSMIUM,Os,76,190.23,metal,d,76,114,76
+IRIDIUM,Ir,77,192.21,metal,d,77,115,77
+PLATINUM,Pt,78,195.07,metal,d,78,118,78
+GOLD,Au,79,196.96,metal,d,79,118,79
+MERCURY,Hg,80,200.59,metal,d,80,120,80
+THALLIUM,Tl,81,201.38,metal,p,81,123,81
+LEAD,Pb,82,201.20,metal,p,82,125,82
+BISMITH,Bi,83,208.98,metal,p,83,126,83
+POLONIUM,Po,84,209.00,radioactive,p,84,126,84
+Astatine,At,85,210.00,radioactive,p,85,125,85
+RADON,Rn,86,222.00,noble gas,p,86,136,86
+FRANCIUM,Fr,87,223.00,radioactive,s,87,136,87
+RADIUM,Ra,88,226.00,radioactive,s,88,138,88
+ACTINIUM,Ac,89,227.00,radioactive,d,89,138,89
+THORIUM,Th,90,232.03,radioactive,f,90,142,90
+PROTACTINIUM,Pa,91,231.03,radioactive,f,91,140,91
+URANIUM,U,92,238.02,radioactive,f,92,146,92
+NEPTUNIUM,Np,93,237.00,radioactive,f,93,144,93
+PLUTONIUM,Pu,94,244.00,radioactive,f,94,150,94
+AMERICIUM,Am,95,243.00,radioactive,f,95,148,95
+CURIUM,Cm,96,247.00,radioactive,f,96,151,96
+BERKELIUM,Bk,97,247.00,radioactive,f,97,150,97
+CALIFONIUM,Cf,98,251.00,radioactive,f,98,153,98
+EINSTEINIUM,Es,99,252.00,radioactive,f,99,153,99
+FERMIUM,Fm,257.00,231.03,radioactive,f,100,157,100
+MENDELEVIUM,Md,101,258.00,radioactive,f,101,157,101
+NOBELIUM,No,102,259.00,radioactive,f,102,157,102
+LAWRENCIUM,Lr,103,262.00,radioactive,d,103,163,103
+RUTHERFORDIUM,Rf,104,261.00,radioactive,d,104,157,104
+DUBNIUM,Db,105,262.00,radioactive,d,105,157,105
+SEABORGIUM,Sg,106,266.00,radioactive,d,106,156,106
+BOHRIUM,Bh,107,264.00,radioactive,d,107,157,107
+HASSSIUM,Hs,108,277.00,radioactive,d,108,161,108
+Meinerium,Mt,109,268.00,radioactive,d,109,159,109
+Darmstadtium,Ds,110,269,radioactive,d,110,159,110
+Roentgenium,Rg,111,282,radioactive,d,111,171,111
+Copernicium,Cn,112,285,radioactive,d,112,173,112
+Nihonium,Nh,113,286,radioactive,p,113,173,113
+Flerovium,Fl,114,289,radioactive,p,114,175,114
+Moscovium,Mc,115,290,radioactive,p,115,175,115
+Livermorium,Lv,116,293,radioactive,p,116,177,116
+Tennessine,Ts,117,294,radioactive,p,117,177,117
+Oganesson,Og,118,294,radioactive,p,118,176,118
